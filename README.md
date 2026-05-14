@@ -1,30 +1,30 @@
-#Quiz Brusque
+Quiz Brusque
 Um jogo de perguntas e respostas desenvolvido com HTML, CSS e JavaScript.
 
 O projeto utiliza imagens como alternativas e possui sistema de pontuação, tela inicial e tela final com feedback ao jogador.
 
 ---
 
-#Preview
+Preview
 Tela Inicial
 Campo para nome
 Campo para escola
 Campo para idade
 Botão de iniciar
 
-#Quiz
+Quiz
 Perguntas com imagens
 Seleção visual de respostas
 Verificação automática
 
-#Tela Final
+Tela Final
 Exibição da pontuação
 Feedback personalizado
 Botão para jogar novamente
 
 ---
 
-#Tecnologias Utilizadas
+Tecnologias Utilizadas
 | Tecnologia | Utilização |
 |---|---|
 | HTML5 | Estrutura do projeto |
