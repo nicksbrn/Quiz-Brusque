@@ -40,6 +40,7 @@ O projeto utiliza imagens como alternativas e possui sistema de pontuação, tel
 
  Tecnologia 
 -------
--HTML 
--CSS 
--JavaScript 
+- HTML 
+- CSS 
+- JavaScript 
+ 
