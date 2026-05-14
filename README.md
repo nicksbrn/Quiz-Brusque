@@ -38,8 +38,8 @@ O projeto utiliza imagens como alternativas e possui sistema de pontuação, tel
 
 # Tecnologias Utilizadas
 
-| Tecnologia | Utilização |
+| Tecnologia | 
 |---|---|
-| HTML | Estrutura do projeto |
-| CSS | Estilização |
-| JavaScript | Lógica do quiz |
+| HTML | 
+| CSS | 
+| JavaScript 
